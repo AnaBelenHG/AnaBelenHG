@@ -3,7 +3,7 @@
 # 👋 ¡Hola! Soy Ana Belén
 
 [![GitHub followers](https://img.shields.io/github/followers/AnaBelenHG?style=social)](https://github.com/AnaBelenHG)
-[![Twitter Follow](https://img.shields.io/twitter/follow/HerreriaAn52588?style=social)]((https://x.com/HerreriaAn52588))
+[![Twitter Follow](https://img.shields.io/twitter/follow/@HerreriaBelen?style=social)]((https://x.com/@HerreriaBelen))
 
 ## 🤖 Un poco sobre mí
 Curiosa, divertida y con un pequeño TOC por encontrar soluciones a cualquier problema, estoy en plena aventura aprendiendo **Desarrollo de Aplicaciones Web**. Me fascina convertir ideas en realidad digital y hacer que el código no solo funcione, sino que además tenga estilo.
@@ -52,7 +52,7 @@ Si tienes una idea guay, buscas colaboración o simplemente quieres hablar de de
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/anabelenherreria)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:anabelenhergui@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://x.com/HerreriaAn52588)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://x.com/@HerreriaBelen)
 
 Siempre abierta a nuevos retos y oportunidades. ¡Hablemos y creemos algo increíble!
 
